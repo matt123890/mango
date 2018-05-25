@@ -1,0 +1,47 @@
+h1{color: orange;
+	font-family: "arial";
+}
+
+.border {
+   border: 1px solid red;
+} 
+
+title {
+	color: yellow;
+}
+
+.yellow {
+	color: yellow;
+}
+
+body {
+	  font-family:arial;
+	}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+#profile{
+	border: 1px solid #dddddd;
+	background-color: green
+}
+h5{
+	color: blue;
+}
+p{
+	color: orangered;
+}
